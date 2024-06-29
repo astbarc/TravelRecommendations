@@ -86,6 +86,12 @@ width:1048px;
   color: #564949;
 }
 
+.about{
+	font-size: 22px;
+   max-width: 1048px;
+  color: #564949;
+}
+
 .social{
 position:absolute;
 top:50%;
