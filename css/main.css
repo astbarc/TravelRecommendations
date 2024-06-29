@@ -1,0 +1,154 @@
+
+body{
+    font-family:Arial, Helvetica, sans-serif
+}
+
+nav{
+    background-color: #d3d3d3;
+    font-size:24px;
+    display:flex;  
+	padding:20px;
+}
+
+input{
+    padding: 10px;
+    width: 200px;
+}
+
+button {
+    padding: 10px;
+    width: 75px;
+}
+
+h1{
+    color:#333;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 62px;
+    max-width: 330px;
+    line-height: 80px;
+	color:#606060;
+}
+
+nav a{
+    text-decoration: none;
+    color:#474747
+   
+}
+
+ul {
+
+     margin-left: 10%;
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+ul.icons {
+
+    margin-left: 10%;
+    list-style: none;
+    align-items: center;
+	display: block;
+}
+
+li {
+    margin-right: 100px;
+	
+}
+
+
+   div#search {
+    align-self: center;
+}
+
+
+.container{
+	  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url('../img/beach.jpg');
+  padding:50px;
+  padding-bottom:100px;
+}
+
+.page{
+max-width:1048px;
+width:1048px;
+}
+
+
+.introduction{
+	font-size: 22px;
+   max-width: 400px;
+  color: #564949;
+}
+
+.social{
+position:absolute;
+top:50%;
+left:20px;
+}
+
+#book{
+	width: 200px;
+}
+
+.introduction {
+line-height:32px;
+}
+
+h3{
+width: 200px;
+    font-size: 40px;
+	  color: #564949;
+}
+
+.team{
+width:33%;
+align-self: center;
+}
+
+.teams{
+display:flex;
+}
+.role{
+    background-color: #adadad;
+    width: 150px;
+    padding: 10px;
+    border-radius: 20px;
+	text-align:center;
+}
+
+label{
+	display: block;
+	margin-bottom:10px;
+	margin-top:20px;
+}
+
+
+.title-c{
+line-height:32px;
+}
+
+.h2-c{
+max-width:100%;
+}
+
+#result{
+    position: absolute;
+    top: 35%;
+    right: 100px;
+}
+
+h4{
+    color: #564949;
+font-size: 32px;
+    margin: 10px;
+}
+
+.destination {
+    border: 2px solid;
+}
